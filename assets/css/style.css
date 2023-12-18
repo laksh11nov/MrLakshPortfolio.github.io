@@ -280,10 +280,10 @@ body {
 
 .portfolio-box {
   background-color: var(--theme);
-  height: 265px;
+  height: 300px;
   width: 100%;
   margin: 15px 0px;
-  border-radius: 10px;
+  border-radius: 45px;
 }
 
 /* portfolio section end */
